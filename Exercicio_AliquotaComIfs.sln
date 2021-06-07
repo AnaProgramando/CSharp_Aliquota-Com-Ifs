@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliquotaComIfs", "AliquotaComIfs.csproj", "{BF7B9FB1-419A-4083-A158-C1899AEA3D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7B9FB1-419A-4083-A158-C1899AEA3D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7B9FB1-419A-4083-A158-C1899AEA3D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7B9FB1-419A-4083-A158-C1899AEA3D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7B9FB1-419A-4083-A158-C1899AEA3D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E595AE-E157-4281-8D93-009103F1869A}
+	EndGlobalSection
+EndGlobal
