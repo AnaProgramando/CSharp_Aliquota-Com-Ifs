@@ -8,7 +8,7 @@
 <p align="center">
  <a href="#-welcome">Welcome</a> |
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
- <a href="#%EF%B8%8F-contato">Contatos</a> | 
+ <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
