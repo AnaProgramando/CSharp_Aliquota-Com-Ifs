@@ -8,6 +8,7 @@
 <p align="center">
  <a href="#-welcome">Welcome</a> |
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#%EF%B8%8F-contato">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
 
@@ -33,7 +34,7 @@ Qualquer dúvida, interaja aqui:
 
 😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
 
-## ✉️ Contato
+## ✉️ Contatos
 
 Se precisar de ajuda, entre em contato comigo 😉
 
