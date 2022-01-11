@@ -25,6 +25,16 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 
 ## ❓ Dúvidas
 
+Qualquer dúvida, interaja aqui:
+  * Faça perguntas
+  * Dê sugestões de melhoria para o projeto
+  * Compartilhe suas ideias
+  * E interaja sobre o assunto
+
+😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
+
+## ✉️ Contato
+
 Se precisar de ajuda, entre em contato comigo 😉
 
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
